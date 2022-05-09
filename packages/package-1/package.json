@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "dependencies": {
+    "vite": "2.9.8"
+  },
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "package-1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
